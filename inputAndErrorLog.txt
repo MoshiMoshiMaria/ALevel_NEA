@@ -1,0 +1,135 @@
+-------------------START SESSION-------------------- 
+Date: [2018, 1, 29]; Time: 14:16:26; Action:None 
+Date: [2018, 1, 29]; Time: 14:16:26; Error: 'NoneType' object is not subscriptable 
+Date: [2018, 1, 29]; Time: 14:16:30; Action:['show adjacent stars'] 
+Date: [2018, 1, 29]; Time: 14:16:39; Action:['warp', 'Al_Minliar_Al_Asad', 9] 
+Date: [2018, 1, 29]; Time: 14:17:1; Action:['warp', 'Al_Minliar_Al_Asad', 9] 
+Date: [2018, 1, 29]; Time: 14:17:6; Action:['warp', 'Avior', 9] 
+Date: [2018, 1, 29]; Time: 14:17:15; Action:['show adjacent stars'] 
+Date: [2018, 1, 29]; Time: 14:17:23; Action:['warp', 'Yed_Prior', 8] 
+Date: [2018, 1, 29]; Time: 14:17:50; Action:['scan', 15, 13] 
+Date: [2018, 1, 29]; Time: 14:17:56; Action:['goto', 15, 14] 
+Date: [2018, 1, 29]; Time: 14:18:1; Action:['attack', 15, 13] 
+Date: [2018, 1, 29]; Time: 14:18:7; Action:['scan', 15, 13] 
+Date: [2018, 1, 29]; Time: 14:18:15; Action:['attack', 15, 13] 
+Date: [2018, 1, 29]; Time: 14:18:20; Action:['scan', 15, 13] 
+Date: [2018, 1, 29]; Time: 14:18:35; Action:['attack', 15, 13] 
+Date: [2018, 1, 29]; Time: 14:18:41; Action:['show system'] 
+Date: [2018, 1, 29]; Time: 14:18:47; Action:['self destruct'] 
+--------------------END SESSION-------------------- 
+-------------------START SESSION-------------------- 
+Date: [2018, 1, 29]; Time: 14:20:56; Action:None 
+-------------------START SESSION-------------------- 
+Date: [2018, 1, 29]; Time: 14:22:3; Action:['show system'] 
+Date: [2018, 1, 29]; Time: 14:22:6; Action:None 
+-------------------START SESSION-------------------- 
+Date: 2018/1/29; Time: 14:23:0; Action:None 
+Date: 2018/1/29; Time: 14:23:0; Error: 'NoneType' object is not subscriptable 
+Date: 2018/1/29; Time: 14:23:3; Action:['show system'] 
+Date: 2018/1/29; Time: 14:23:7; Action:['self destruct'] 
+--------------------END SESSION-------------------- 
+-------------------START SESSION-------------------- 
+Date: 2018/1/31; Time: 13:44:45; Action:['show adjacent stars'] 
+Date: 2018/1/31; Time: 13:44:50; Action:['warp', 'Sarir', 8] 
+Date: 2018/1/31; Time: 13:45:3; Action:['goto', 5, 1] 
+Date: 2018/1/31; Time: 13:45:6; Action:['attack', 5, 0] 
+Date: 2018/1/31; Time: 13:45:10; Action:['attack', 4, 0] 
+Date: 2018/1/31; Time: 13:45:16; Action:['goto', 40, 16] 
+Date: 2018/1/31; Time: 13:45:19; Action:['show system'] 
+Date: 2018/1/31; Time: 13:45:24; Action:['show system'] 
+Date: 2018/1/31; Time: 13:45:34; Action:['self destruct'] 
+--------------------END SESSION-------------------- 
+-------------------START SESSION-------------------- 
+Date: 2018/1/31; Time: 13:50:39; Action:['show system'] 
+Date: 2018/1/31; Time: 13:50:46; Action:['show adjacent stars'] 
+Date: 2018/1/31; Time: 13:50:52; Action:['warp', 'Al_Kurud', 8] 
+Date: 2018/1/31; Time: 13:51:2; Action:['scan', 16, 1] 
+Date: 2018/1/31; Time: 13:51:10; Action:['goto', 16, 2] 
+Date: 2018/1/31; Time: 13:51:14; Action:['attack', 16, 1] 
+Date: 2018/1/31; Time: 13:51:25; Action:['scan', 16, 1] 
+Date: 2018/1/31; Time: 13:51:35; Action:['attack', 16, 1] 
+Date: 2018/1/31; Time: 13:51:42; Action:['repeat'] 
+Date: 2018/1/31; Time: 13:51:49; Action:['repeat'] 
+Date: 2018/1/31; Time: 13:51:55; Action:['repeat'] 
+Date: 2018/1/31; Time: 13:51:59; Action:['scan', 16, 1] 
+Date: 2018/1/31; Time: 13:52:11; Action:['attack', 16, 1] 
+Date: 2018/1/31; Time: 13:52:15; Action:['scan', 16, 1] 
+Date: 2018/1/31; Time: 13:52:21; Action:['attack', 16, 1] 
+Date: 2018/1/31; Time: 13:52:25; Action:['show system'] 
+Date: 2018/1/31; Time: 13:52:33; Action:['show system'] 
+-------------------START SESSION-------------------- 
+Date: 2018/1/31; Time: 13:57:7; Action:['show adjacent stars'] 
+Date: 2018/1/31; Time: 13:57:13; Action:['warp', 'Sirius', 9] 
+Date: 2018/1/31; Time: 13:57:21; Action:['scan', 13, 0] 
+Date: 2018/1/31; Time: 13:57:26; Action:['goto', 13, 1] 
+Date: 2018/1/31; Time: 13:57:29; Action:['attack', 13, 0] 
+Date: 2018/1/31; Time: 13:57:35; Action:['repeat'] 
+Date: 2018/1/31; Time: 13:57:39; Action:['repeat'] 
+Date: 2018/1/31; Time: 13:57:43; Action:['repeat'] 
+Date: 2018/1/31; Time: 13:57:48; Action:['repeat'] 
+Date: 2018/1/31; Time: 13:57:53; Action:['show system'] 
+-------------------START SESSION-------------------- 
+Date: 2018/1/31; Time: 13:59:13; Action:['show adjacent stars'] 
+Date: 2018/1/31; Time: 13:59:16; Action:['warp', 'Naos', 9] 
+-------------------START SESSION-------------------- 
+Date: 2018/1/31; Time: 13:59:58; Action:['show adjacent stars'] 
+Date: 2018/1/31; Time: 14:0:2; Action:['warp', 'Kochab', 8] 
+Date: 2018/1/31; Time: 14:0:13; Action:['scan', 34, 0] 
+Date: 2018/1/31; Time: 14:0:17; Action:['show system'] 
+Date: 2018/1/31; Time: 14:0:23; Action:['goto', 34, 1] 
+-------------------START SESSION-------------------- 
+Date: 2018/1/31; Time: 14:1:14; Action:['show adjacent stars'] 
+Date: 2018/1/31; Time: 14:1:21; Action:['warp', 'Algenib', 9] 
+-------------------START SESSION-------------------- 
+Date: 2018/1/31; Time: 14:2:6; Action:['show adjacent stars'] 
+Date: 2018/1/31; Time: 14:2:10; Action:['warp', 'Sham', 8] 
+-------------------START SESSION-------------------- 
+Date: 2018/1/31; Time: 14:3:16; Action:['show adjacent stars'] 
+Date: 2018/1/31; Time: 14:3:20; Action:['warp', 'Hamal', 8] 
+-------------------START SESSION-------------------- 
+Date: 2018/1/31; Time: 14:4:47; Action:['show adjacent stars'] 
+Date: 2018/1/31; Time: 14:4:50; Action:['warp', 'Skat', 9] 
+-------------------START SESSION-------------------- 
+Date: 2018/1/31; Time: 14:6:26; Action:['show adjacent stars'] 
+Date: 2018/1/31; Time: 14:6:29; Action:['warp', 'Sarin', 9] 
+-------------------START SESSION-------------------- 
+Date: 2018/2/2; Time: 12:0:55; Action:['show adjacent stars'] 
+-------------------START SESSION-------------------- 
+Date: 2018/2/2; Time: 12:23:53; Action:['show adjacent stars'] 
+Date: 2018/2/2; Time: 12:23:57; Action:['warp', 'Marfik', 8] 
+Date: 2018/2/2; Time: 12:24:12; Action:['goto', 0, 0] 
+Date: 2018/2/2; Time: 12:24:19; Action:['show system'] 
+Date: 2018/2/2; Time: 12:24:25; Action:['show system'] 
+Date: 2018/2/2; Time: 12:24:37; Action:['self destruct'] 
+--------------------END SESSION-------------------- 
+-------------------START SESSION-------------------- 
+Date: 2018/2/2; Time: 12:33:17; Action:['show adjacent stars'] 
+Date: 2018/2/2; Time: 12:33:21; Action:['warp', 'Almaaz', 9] 
+Date: 2018/2/2; Time: 12:33:35; Action:['scan', 20, 7] 
+Date: 2018/2/2; Time: 12:33:41; Action:['goto', 0, 0] 
+Date: 2018/2/2; Time: 12:33:59; Action:['show system'] 
+Date: 2018/2/2; Time: 12:34:3; Action:['show system'] 
+Date: 2018/2/2; Time: 12:34:7; Action:['show system'] 
+-------------------START SESSION-------------------- 
+Date: 2018/3/12; Time: 9:52:52; Action:['show adjacent stars'] 
+Date: 2018/3/12; Time: 9:52:57; Action:['warp', 'Nembus', 9] 
+Date: 2018/3/12; Time: 9:53:7; Action:['scan', 24, 7] 
+Date: 2018/3/12; Time: 9:53:14; Action:['scan', 23, 7] 
+Date: 2018/3/12; Time: 9:53:19; Action:['attack', 23, 7] 
+Date: 2018/3/12; Time: 9:53:34; Action:['show system'] 
+-------------------START SESSION-------------------- 
+Date: 2018/4/12; Time: 15:54:6; Action:['self destruct'] 
+--------------------END SESSION-------------------- 
+-------------------START SESSION-------------------- 
+Date: 2018/5/1; Time: 13:4:29; Action:['show adjacent stars'] 
+Date: 2018/5/1; Time: 13:4:33; Action:['warp', 'Sirius', 7] 
+-------------------START SESSION-------------------- 
+Date: 2018/5/1; Time: 13:5:24; Action:['show adjacent stars'] 
+Date: 2018/5/1; Time: 13:5:27; Action:['warp', 'Spica', 8] 
+-------------------START SESSION-------------------- 
+Date: 2018/5/1; Time: 13:9:38; Action:['show adjacent stars'] 
+Date: 2018/5/1; Time: 13:9:43; Action:['warp', 'Regor', 8] 
+-------------------START SESSION-------------------- 
+Date: 2018/5/1; Time: 13:12:49; Action:['show adjacent stars'] 
+Date: 2018/5/1; Time: 13:12:56; Action:['self destruct'] 
+--------------------END SESSION-------------------- 
