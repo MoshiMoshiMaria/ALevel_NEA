@@ -1,0 +1,18 @@
+SHP
+choooseAttack
+recevieDamage
+setActiveWeapons
+raiseShields/lowerShields
+
+SHL
+regenShields
+
+WEA
+
+MAP
+move
+goto
+warp
+getCurrentAdjacencies
+displaySystem? - could do it every time it changes
+
